@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x99a281aD10a7202f8a1D0Cab5af899fF596a02Dc",
+  "SCAN_LINK": "https://polygonscan.com/address/0x99a281ad10a7202f8a1d0cab5af899ff596a02dc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pineapple Pete NFT",
+  "SYMBOL": "PiP",
+  "MAX_SUPPLY": 1500,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pineapplepete",
+  "SHOW_BACKGROUND": true
+}
